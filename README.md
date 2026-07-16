@@ -1,19 +1,36 @@
-# Lumiere - Task Management Application
+# Lumiere - Task Management System
 
-Course: WIX1002:FUNDAMENTALS OF PROGRAMMING
-Semester: SEMESTER 1
-Enhance your productivity with Lumiere! (To-do list app for My FOP group project)
+## Overview
 
+Lumiere is a Java-based task management application designed to help users organise, manage, and search tasks efficiently.
+
+The application integrates hugging face API for searching tasks with vector search, allowing users to retrieve relevant tasks based on meaning rather than exact keyword matching.
+
+---
 
 ## Features
-- Create tasks
-- Edit tasks
-- Search tasks
+
+- Create, update, and delete tasks
+- Task categorisation
 - Task dependency management
-- Sorting functionality
-- Integrated with Hugging Face API for searching tasks with vector search
+- Task sorting and filtering
+- Semantic task search
 
+---
 
-## Technologies
+## Technologies Used
+
 - Java
-- NetBeans
+- Maven
+- HuggingFace API
+- Netbeans
+
+## Author
+
+Nur Sahira Batrisyia
+As part of group project, WIX1002: Fundamental of Programming
+
+Bachelor of Computer Science (Artificial Intelligence)  
+Universiti Malaya
+
+(January 2025)
