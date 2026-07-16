@@ -25,9 +25,11 @@ The application integrates hugging face API for searching tasks with vector sear
 - HuggingFace API
 - Netbeans
 
+---
+
 ## Author
 
-Nur Sahira Batrisyia
+Nur Sahira Batrisyia  
 As part of group project, WIX1002: Fundamental of Programming
 
 Bachelor of Computer Science (Artificial Intelligence)  
